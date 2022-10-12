@@ -22,7 +22,30 @@
 
 Language: <a href="readme.md">EN-US</a>
 
+Este projeto trata-se de uma estrutura base para criar temas Wordpress.
 
+<br>
+
+Descrição dos arquivos do diretório <b>theme</b>:
+
+- <b>style.css</b>: informações sobre o tema (aparecerão do gerenciador de temas da Dashboard).
+- <b>functions.php</b>: configurações do tema.
+- <b>header.php</b>: título, meta-tags, bibliotecas e coisas semelhantes. 
+- <b>footer.php</b>: bibliotecas carregadas no final da página, e coisas semelhantes.
+- <b>index.php</b>: controle da exibição da Home.
+- <b>page.php</b>: controle da exibição das páginas.
+- <b>single.php</b>: controle da exibição dos posts.
+- <b>comments.php</b>: controle da exibição dos comentários.
+- <b>404.php</b>: erro de página não existente.
+- <b>sidebar.php</b>: controle das coisas que aparecem na sidebar.
+- <b>searchform.php</b>: controle do campo de busca.
+- <b>screenshot.png</b>: miniatura da imagem que aparecerá na área de administração dos temas da Dashboard do Wordpress.
+
+Diretórios:
+- <b>theme/css</b>: arquivos CSS do tema. 
+- <b>theme/js</b>: arquivos JS do tema. 
+
+<br>
 
 **Se meu código te ajudou em algo, considere [ser um patrocinador](https://github.com/sponsors/melchisedech333) :blue_heart:** 
 
