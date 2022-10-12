@@ -4,9 +4,9 @@
 <main role="main" aria-label="Content">
   <section>
     <article id="post-404">
-      <h1><?php esc_html_e('Página não encontrada!', 'wp-blank'); ?></h1>
+      <h1><?php esc_html_e('Page not found!', 'wp-blank'); ?></h1>
       <h2>
-        <a href="<?php echo esc_url(home_url()); ?>"><?php esc_html_e('Voltar', 'wp-blank'); ?></a>
+        <a href="<?php echo esc_url(home_url()); ?>"><?php esc_html_e('Back', 'wp-blank'); ?></a>
       </h2>
     </article>
   </section>

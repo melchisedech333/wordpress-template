@@ -19,7 +19,7 @@
             </article>
         <?php endwhile; else : ?>
             <article>
-                <p>Nenhuma postagem existente!</p>
+                <p>No posts found!</p>
             </article>
         <?php endif; ?>
         

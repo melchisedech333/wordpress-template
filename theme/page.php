@@ -13,7 +13,7 @@
             </article>
         <?php endwhile; else : ?>
             <article>
-                <p>Nenhuma página existente!</p>
+                <p>No page found!</p>
             </article>
         <?php endif; ?>
     </section>

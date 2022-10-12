@@ -1,6 +1,6 @@
 
         <footer>
-            <p>Copyright &copy; <?php date('Y'); ?> Verbum Labs</p>
+            <p>Copyright &copy; <?php date('Y'); ?> <a href="https://github.com/melchisedech333">melchisedech333</a></p>
         </footer>
         
         <!-- Libraries. -->
