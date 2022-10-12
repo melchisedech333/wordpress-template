@@ -1,4 +1,0 @@
-
-# wordpress template example
-
-
